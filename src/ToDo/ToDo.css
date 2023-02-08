@@ -1,0 +1,9 @@
+.todo__container {
+  margin: 0 auto;
+  padding: 20px;
+
+  max-width: 390px;
+  min-height: 600px;
+  background: #222222;
+  border-radius: 30px;
+}

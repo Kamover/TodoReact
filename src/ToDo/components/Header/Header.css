@@ -1,0 +1,35 @@
+.todo__header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  line-height: 43px;
+  color: #f4f4f4;
+}
+
+.todo__title {
+  margin: 0;
+  padding: 0;
+}
+
+.todo__settings_icon {
+  font-size: 30px;
+}
+
+.todo__settings {
+  position: absolute;
+  right: 15%;
+  bottom: -25%;
+
+  padding: 5px 10px;
+
+  width: 60%;
+  height: 50px;
+
+  background-color: #f4f4f4;
+  color: black;
+  border-radius: 10px;
+}
